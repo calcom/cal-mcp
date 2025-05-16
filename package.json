@@ -1,0 +1,15 @@
+{
+  "name": "@calcom/cal-mcp",
+  "version": "1.0.1",
+  "description": "The mcp server for Cal.com",
+  "main": "index.js",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
