@@ -26,7 +26,7 @@ Installation will vary depending on your client, but in most cases you'll need t
     "cal": {
       "command": "npx",
       "args": [
-        "@buildwithlayer/cal-mcp-demo@latest",
+        "@calcom/cal-mcp@latest",
       ],
       "env": {
         "CAL_API_KEY": "YOUR CAL API KEY"
