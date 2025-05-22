@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { addAPITools } from "@buildwithlayer/openapi-to-tools/mcp.js";
+import addAPITools from "@buildwithlayer/openapi-to-tools/mcp.js";
 import type { APITool } from "@buildwithlayer/openapi-to-tools/types.js";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
